@@ -125,7 +125,7 @@ img{
   background: rgb(246, 242, 242);
   width: 300px;
   height: 275px;
-  margin-right: 50px;
+  
   margin-top:21vh;
 }
 
